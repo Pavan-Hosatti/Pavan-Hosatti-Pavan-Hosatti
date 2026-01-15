@@ -1,118 +1,237 @@
-# Pavan Hosatti
+<div align="center">
 
-**Full Stack Developer | ML Engineer | Technical Storyteller**
+# 👨‍💻 Pavan Hosatti
 
-Building the bridge between AI/ML and real-world applications. I ship fast, iterate faster, and believe tech should solve real problems.
+### Full Stack Developer | ML Engineer | Technical Storyteller
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://pavan-hosatti.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-hosatti-a51916259/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pavanhosatti18@gmail.com)
+*Building the bridge between AI/ML and real-world applications*
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://pavan-hosatti.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-hosatti-a51916259/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanhosatti18@gmail.com)
 
-## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Pavan-Hosatti&color=00ff88&style=for-the-badge)
 
-ML + Backend Systems specialist focused on connecting AI with real-world applications. Beyond code, I'm into acting, writing, anchoring, and marketing—because the best developers understand people, not just programs.
-
-**Current Focus:** Deploying ML models in production where they actually matter, building scalable backend systems, and creating seamless user experiences.
+</div>
 
 ---
 
-## Achievements
+## 🚀 About Me
 
-**🥇 First Place** — Farm2Market Pitch Deck  
-Voice-controlled agricultural marketplace in Kannada. Pitched complete system including ML voice recognition, MERN stack, OAuth, and CI/CD pipeline.
+```javascript
+const developer = {
+    focus: "ML + Backend Systems",
+    speciality: "Connecting AI with real-world applications",
+    approach: "Ship fast, iterate faster",
+    beyondCode: ["Acting", "Writing", "Anchoring", "Marketing"]
+};
+```
 
-**🥉 Third Place** — CIT Ideathon (RePad)  
-Menstrual pad disposal solution. Building tech that solves social problems.
-
-**🎤 Public Speaker & Tech Anchor**  
-Hosting tech events and explaining complex systems. If you can't explain it, you don't understand it well enough.
-
----
-
-## Leadership & Community
-
-**Technical Team Member** — MLSA CIT Chapter  
-Working on ML and backend projects, organizing technical workshops, building the AI/ML community.
-
-**Technical Team Member** — Innov8  
-Contributing to innovation initiatives and developing backend systems that solve real problems.
+> **Currently exploring:** The intersection of ML, backend systems, and seamless user experiences. Too many models sit in notebooks—I want to see them in production, solving actual problems.
 
 ---
 
-## Tech Stack
+## 🏆 Achievements & Recognition
 
-**Languages:** JavaScript • Python • Java • TypeScript • C
+<table>
+<tr>
+<td width="50%">
 
-**Frontend:** React • Three.js • Tailwind CSS • Redux
+### 🥇 First Place
+**Farm2Market Pitch Deck**
 
-**Backend:** Node.js • Express.js • MongoDB • Firebase
+Voice-controlled agricultural marketplace in Kannada. Pitched the complete system: ML model for voice recognition, MERN stack implementation, OAuth integration, and CI/CD pipeline.
 
-**ML/AI:** TensorFlow • PyTorch
+*Real farmers, real impact.*
 
-**DevOps:** Git • Docker • Google Cloud
+</td>
+<td width="50%">
+
+### 🥉 Third Place
+**CIT Ideathon (RePad)**
+
+Menstrual pad disposal solution that addresses social problems with technology.
+
+*Sometimes the hardest problems aren't technical—they're social.*
+
+</td>
+</tr>
+</table>
+
+### 🎤 Public Speaker & Tech Anchor
+Hosting tech events and explaining complex systems. *If you can't explain it, you don't understand it well enough.*
 
 ---
 
-## Featured Projects
+## 👥 Leadership & Community
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Pavan-Hosatti&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=ff6b9d" width="50%" />
+
+**🔹 Technical Team Member** — MLSA CIT Chapter  
+Working on ML and backend system projects, organizing technical workshops, and building the AI/ML community at CIT.
+
+**🔹 Technical Team Member** — Innov8  
+Contributing to innovation initiatives, developing backend systems, and driving technical projects that solve real problems.
+
+<br clear="right"/>
+
+---
+
+## 💻 Tech Arsenal
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ML/AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌾 Farm2Market
-Voice-controlled agricultural marketplace in Kannada. Farmers speak, system responds. Custom ML model for voice commands, MERN stack backend, OAuth security, CI/CD deployment.
+**Voice-controlled agricultural marketplace**
 
-**Tech:** Voice AI • MERN Stack • ML Model • CI/CD • OAuth
+Farmers speak, system responds. Custom ML model handles voice commands, MERN stack powers the backend, OAuth secures users, deployed via CI/CD pipeline.
+
+`Voice AI` `MERN Stack` `ML Model` `CI/CD` `OAuth`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🍽️ 3D Restaurant Experience
-Immersive restaurant website with Three.js 3D models, integrated payment gateway, Firebase real-time backend. Fully deployed with authentication.
+**Immersive restaurant website**
 
-**Tech:** Three.js • Firebase • Payment Gateway • 3D Graphics
+Three.js 3D models, integrated payment gateway, Firebase backend handling orders in real-time. Deployed end-to-end with proper auth flow.
+
+`Three.js` `Firebase` `Payment Gateway` `3D Graphics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎮 CatchVerse
-Interactive game with smooth animations. Redux state management, Framer Motion animations. Fast, responsive, actually fun.
+**Interactive game with smooth animations**
 
-**Tech:** React • Redux • Framer Motion
+Built with React ecosystem. Redux for state management, Framer Motion for smooth animations. Fast, responsive, actually fun to play.
+
+`React` `Redux` `Framer Motion` `Animations`
+
+</td>
+<td width="50%" valign="top">
 
 ### ✅ Task Manager
-Pre-React productivity app built with vanilla JS. Confetti animations on task completion (because dopamine matters). Clean architecture that doesn't need a framework.
+**Pre-React era productivity app**
 
-**Tech:** Vanilla JS • Confetti Animations • Clean Architecture
+Built with vanilla JS, confetti animations when you complete tasks (because dopamine matters), clean architecture that doesn't need a framework to be elegant.
 
----
+`Vanilla JS` `Confetti` `Clean Architecture`
 
-## Core Philosophy
+</td>
+</tr>
+</table>
 
-**Ship First, Perfect Later** — Real users > perfect code. Deploy fast, learn faster, iterate constantly.
-
-**Tech That Matters** — Building solutions for real problems, from farmers to sustainability.
-
-**Learn By Building** — Documentation is great, but nothing beats shipping a project.
-
-**Explain to Understand** — Teaching deepens knowledge. Simplicity is sophistication.
+</div>
 
 ---
 
-## Vision
+## 💡 Core Philosophy
 
-Too many ML models sit in notebooks. I want to see them in production, solving actual problems—whether it's voice interfaces for farmers who can't read, automated workflows saving hours of work, or intelligent systems making real-time decisions.
+<div align="center">
 
-The future isn't just about building smarter models. It's about deploying them where they matter most.
+| 🚀 Ship First, Perfect Later | 🌍 Tech That Matters |
+|:---:|:---:|
+| Real users > perfect code | Building solutions for real problems |
+| Deploy fast, learn faster | From farmers to sustainability |
+
+| 🧠 Learn By Building | 🗣️ Explain to Understand |
+|:---:|:---:|
+| Documentation is great | Teaching deepens knowledge |
+| Nothing beats shipping | Simplicity is sophistication |
+
+</div>
 
 ---
 
-## GitHub Stats
+## 🔮 Vision
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Hosatti&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=ff6b9d)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Hosatti&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88)
+*Building the bridge between AI/ML and real-world applications*
 
-![Streak](https://streak-stats.demolab.com?user=Pavan-Hosatti&theme=dark&hide_border=true&background=0A0A0A&ring=00FF88&fire=FF6B9D)
+Too many models sit in notebooks—I want to see them in **production**, solving actual problems:
+- 🎤 Voice interfaces for farmers who can't read
+- ⚡ Automated workflows that save hours of manual work
+- 🤖 Intelligent systems that make decisions in real-time
+
+**The future isn't just about building smarter models. It's about deploying them where they matter most.**
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavan-Hosatti&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=ff6b9d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Hosatti&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pavan-Hosatti&theme=dark&hide_border=true&background=0A0A0A&ring=00FF88&fire=FF6B9D" alt="GitHub Streak"/>
+</div>
 
 ---
 
 <div align="center">
 
-**"Ship fast, iterate faster. Build tech that matters."**
+### 💬 Let's Connect
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pavan-Hosatti&color=00ff88&style=flat&label=Profile+Visitors)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://pavan-hosatti.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-hosatti-a51916259/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanhosatti18@gmail.com)
+
+---
+
+### ⚡ Quick Quote
+
+> *"Ship fast, iterate faster. Build tech that matters."*
+
+---
+
+**Thanks for visiting!** ⭐ Star some repos if you find them interesting!
 
 </div>
