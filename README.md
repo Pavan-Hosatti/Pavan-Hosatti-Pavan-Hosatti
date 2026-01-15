@@ -9,7 +9,7 @@
 
 ## 📍 About Me
 
-
+```javascript
 const developer = {
     focus: "ML + Backend Systems",
     speciality: "connecting AI with real-world applications",
