@@ -58,7 +58,6 @@ https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&log
 ML/AI
 https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white
 https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
-https://img.shields.io/badge/Voice_AI-0078D4?style=flat-square&logo=google-assistant&logoColor=white
 
 DevOps & Tools
 https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
@@ -90,9 +89,6 @@ Built with vanilla JS, confetti animations when you complete tasks (because dopa
 
 Tech: Vanilla JS Confetti Animations Clean Architecture
 
-🔐 + More Projects
-Password Manager, Netflix Clone, and various experimental projects exploring new tech stacks and patterns.
-
 🎯 Core Values
 🚀 Ship First, Perfect Later
 Real users > perfect code. Deploy fast, learn faster, iterate constantly.
@@ -111,21 +107,6 @@ Building the bridge between AI/ML and real-world applications. Too many models s
 
 Currently exploring the intersection of ML, backend systems, and seamless user experiences. The future isn't just about building smarter models—it's about deploying them where they matter most.
 
-🎭 Beyond Code
-🎭 Acting	✍️ Writing	🎤 Anchoring
-📈 Marketing	🗣️ Public Speaking	🎬 Storytelling
-Tech isn't just about code—it's about communication. From hosting tech events to crafting narratives around products, I believe the best engineers are also great storytellers. Whether it's explaining complex systems on stage or writing copy that converts, these skills amplify technical work.
-
-🤝 Open for Collaboration
-🚀 Startup Projects
-Got an idea that needs a full-stack + ML engineer? Let's build something real. Especially interested in projects with social impact.
-
-🤖 ML/AI Integration
-Have a model that needs deployment? Want to add voice interfaces or intelligent automation? Let's connect the dots from training to production.
-
-🎯 Open Source
-Always looking to contribute to projects that matter. Especially interested in dev tools, ML frameworks, and anything that makes developers' lives easier.
-
 📊 GitHub Activity
 https://github-readme-stats.vercel.app/api?username=Pavan-Hosatti&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=ff6b9d
 
@@ -134,12 +115,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Hosatti&lay
 https://streak-stats.demolab.com?user=Pavan-Hosatti&theme=dark&hide_border=true&background=0A0A0A&ring=00FF88&fire=FF6B9D
 
 📫 Connect With Me
-<p align="center"> <a href="https://pavan-hosatti.github.io"> <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"> </a> <a href="https://www.linkedin.com/in/pavan-hosatti-a51916259/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:pavanhosatti18@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/Pavan-Hosatti"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
+<p align="center"> <a href="https://pavan-hosatti.github.io"> <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"> </a> <a href="https://www.linkedin.com/in/pavan-hosatti-a51916259/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:pavanhosatti18@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
 <div align="center">
 "Ship fast, iterate faster. Build tech that matters."
 
 https://komarev.com/ghpvc/?username=Pavan-Hosatti&color=00ff88&style=flat&label=PROFILE+VISITORS
 
-🚀 Experience the Full Interactive Portfolio
-
-</div>```
+</div> ```
