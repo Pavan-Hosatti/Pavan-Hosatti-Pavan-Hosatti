@@ -1,124 +1,118 @@
-# 👨‍💻 Pavan Hosatti
-### Full Stack Developer | ML Engineer | Technical Storyteller
+# Pavan Hosatti
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Full_Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://pavan-hosatti.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-hosatti-a51916259/)
-[![Email](https://img.shields.io/badge/Email-pavanhosatti18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanhosatti18@gmail.com)
+**Full Stack Developer | ML Engineer | Technical Storyteller**
+
+Building the bridge between AI/ML and real-world applications. I ship fast, iterate faster, and believe tech should solve real problems.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://pavan-hosatti.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-hosatti-a51916259/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pavanhosatti18@gmail.com)
 
 ---
 
-## 📍 About Me
+## About Me
 
-```javascript
-const developer = {
-    focus: "ML + Backend Systems",
-    speciality: "connecting AI with real-world applications",
-    approach: "ship fast, iterate faster",
-    beyond_code: ["acting", "writing", "anchoring", "marketing"]
-};
-🏆 Achievements
-🥇 First Place - Farm2Market Pitch Deck
-Voice-controlled agricultural marketplace in Kannada
-Pitched the complete system: ML model for voice recognition, MERN stack implementation, OAuth integration, and CI/CD pipeline. Demonstrated real-world farmer impact.
+ML + Backend Systems specialist focused on connecting AI with real-world applications. Beyond code, I'm into acting, writing, anchoring, and marketing—because the best developers understand people, not just programs.
 
-🥉 Third Place - CIT Ideathon (RePad)
-Menstrual pad disposal solution
-Built tech that solves social problems. Sometimes the hardest problems aren't technical, they're social.
+**Current Focus:** Deploying ML models in production where they actually matter, building scalable backend systems, and creating seamless user experiences.
 
-🎤 Public Speaker & Tech Anchor
+---
+
+## Achievements
+
+**🥇 First Place** — Farm2Market Pitch Deck  
+Voice-controlled agricultural marketplace in Kannada. Pitched complete system including ML voice recognition, MERN stack, OAuth, and CI/CD pipeline.
+
+**🥉 Third Place** — CIT Ideathon (RePad)  
+Menstrual pad disposal solution. Building tech that solves social problems.
+
+**🎤 Public Speaker & Tech Anchor**  
 Hosting tech events and explaining complex systems. If you can't explain it, you don't understand it well enough.
 
-👥 Roles & Leadership
-Technical Team Member - MLSA CIT Chapter
-Working on ML and backend system projects, organizing technical workshops, and building the AI/ML community at CIT.
+---
 
-Technical Team Member - Innov8
-Contributing to innovation initiatives, developing backend systems, and driving technical projects that solve real problems.
+## Leadership & Community
 
-💻 Tech Stack
-Languages
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white
-https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white
-https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white
+**Technical Team Member** — MLSA CIT Chapter  
+Working on ML and backend projects, organizing technical workshops, building the AI/ML community.
 
-Frontend
-https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white
+**Technical Team Member** — Innov8  
+Contributing to innovation initiatives and developing backend systems that solve real problems.
 
-Backend & Databases
-https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black
+---
 
-ML/AI
-https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
+## Tech Stack
 
-DevOps & Tools
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white
+**Languages:** JavaScript • Python • Java • TypeScript • C
 
-🚀 Featured Projects
-🌾 Farm2Market
-Voice-controlled agricultural marketplace in Kannada
-Farmers speak, system responds. Custom ML model handles voice commands, MERN stack powers the backend, OAuth secures users, deployed via CI/CD pipeline. Real farmers, real impact.
+**Frontend:** React • Three.js • Tailwind CSS • Redux
 
-Tech: Voice AI MERN Stack ML Model CI/CD OAuth
+**Backend:** Node.js • Express.js • MongoDB • Firebase
 
-🍽️ 3D Restaurant Experience
-Immersive restaurant website with 3D visualization
-Three.js 3D models, integrated payment gateway, Firebase backend handling orders in real-time. Deployed end-to-end with proper auth flow.
+**ML/AI:** TensorFlow • PyTorch
 
-Tech: Three.js Firebase Payment Gateway 3D Graphics
+**DevOps:** Git • Docker • Google Cloud
 
-🎮 CatchVerse
-Interactive game with smooth animations
-Built with React ecosystem. Redux for state management, Framer Motion for smooth animations. Fast, responsive, actually fun to play.
+---
 
-Tech: React Redux Framer Motion Animations
+## Featured Projects
 
-✅ Task Manager
-Pre-React era productivity app
-Built with vanilla JS, confetti animations when you complete tasks (because dopamine matters), clean architecture that doesn't need a framework to be elegant.
+### 🌾 Farm2Market
+Voice-controlled agricultural marketplace in Kannada. Farmers speak, system responds. Custom ML model for voice commands, MERN stack backend, OAuth security, CI/CD deployment.
 
-Tech: Vanilla JS Confetti Animations Clean Architecture
+**Tech:** Voice AI • MERN Stack • ML Model • CI/CD • OAuth
 
-🎯 Core Values
-🚀 Ship First, Perfect Later
-Real users > perfect code. Deploy fast, learn faster, iterate constantly.
+### 🍽️ 3D Restaurant Experience
+Immersive restaurant website with Three.js 3D models, integrated payment gateway, Firebase real-time backend. Fully deployed with authentication.
 
-🌍 Tech That Matters
-Building solutions for real problems. From farmers to sustainability, tech should create impact.
+**Tech:** Three.js • Firebase • Payment Gateway • 3D Graphics
 
-🧠 Learn By Building
-Documentation is great, but nothing beats shipping a project. Break things, fix things, repeat.
+### 🎮 CatchVerse
+Interactive game with smooth animations. Redux state management, Framer Motion animations. Fast, responsive, actually fun.
 
-🗣️ Explain to Understand
-If you can't explain it simply, you don't understand it well enough. Teaching deepens knowledge.
+**Tech:** React • Redux • Framer Motion
 
-🔮 Vision
-Building the bridge between AI/ML and real-world applications. Too many models sit in notebooks—I want to see them in production, solving actual problems. Whether it's voice interfaces for farmers who can't read, automated workflows that save hours of manual work, or intelligent systems that make decisions in real-time, the goal is simple: make AI accessible and useful.
+### ✅ Task Manager
+Pre-React productivity app built with vanilla JS. Confetti animations on task completion (because dopamine matters). Clean architecture that doesn't need a framework.
 
-Currently exploring the intersection of ML, backend systems, and seamless user experiences. The future isn't just about building smarter models—it's about deploying them where they matter most.
+**Tech:** Vanilla JS • Confetti Animations • Clean Architecture
 
-📊 GitHub Activity
-https://github-readme-stats.vercel.app/api?username=Pavan-Hosatti&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=ff6b9d
+---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Hosatti&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88
+## Core Philosophy
 
-https://streak-stats.demolab.com?user=Pavan-Hosatti&theme=dark&hide_border=true&background=0A0A0A&ring=00FF88&fire=FF6B9D
+**Ship First, Perfect Later** — Real users > perfect code. Deploy fast, learn faster, iterate constantly.
 
-📫 Connect With Me
-<p align="center"> <a href="https://pavan-hosatti.github.io"> <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"> </a> <a href="https://www.linkedin.com/in/pavan-hosatti-a51916259/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:pavanhosatti18@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
+**Tech That Matters** — Building solutions for real problems, from farmers to sustainability.
+
+**Learn By Building** — Documentation is great, but nothing beats shipping a project.
+
+**Explain to Understand** — Teaching deepens knowledge. Simplicity is sophistication.
+
+---
+
+## Vision
+
+Too many ML models sit in notebooks. I want to see them in production, solving actual problems—whether it's voice interfaces for farmers who can't read, automated workflows saving hours of work, or intelligent systems making real-time decisions.
+
+The future isn't just about building smarter models. It's about deploying them where they matter most.
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Hosatti&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=ff6b9d)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Hosatti&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88)
+
+![Streak](https://streak-stats.demolab.com?user=Pavan-Hosatti&theme=dark&hide_border=true&background=0A0A0A&ring=00FF88&fire=FF6B9D)
+
+---
+
 <div align="center">
-"Ship fast, iterate faster. Build tech that matters."
 
-https://komarev.com/ghpvc/?username=Pavan-Hosatti&color=00ff88&style=flat&label=PROFILE+VISITORS
+**"Ship fast, iterate faster. Build tech that matters."**
 
-</div> ```
+![Profile Views](https://komarev.com/ghpvc/?username=Pavan-Hosatti&color=00ff88&style=flat&label=Profile+Visitors)
+
+</div>
