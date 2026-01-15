@@ -1,117 +1,102 @@
-<div align="center">
+# 👋 Hi, I'm Pavan Hosatti
 
-<!-- Terminal-style Header -->
-<div style="background: #1a1a1a; border: 2px solid #333; border-radius: 10px 10px 0 0; padding: 20px; font-family: 'SF Mono', 'Consolas', monospace; color: #e0e0e0;">
+**Full Stack Developer | ML Engineer | Technical Storyteller**
 
-<div style="display: flex; gap: 8px; margin-bottom: 15px;">
-  <span style="width: 12px; height: 12px; background: #ff5f56; border-radius: 50%;"></span>
-  <span style="width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%;"></span>
-  <span style="width: 12px; height: 12px; background: #27c93f; border-radius: 50%;"></span>
-  <span style="margin-left: 10px; color: #888; font-size: 14px;">bash — 80×24</span>
-</div>
-
-<div style="padding: 10px;">
-  <span style="color: #00ff88;">visitor@github</span>:<span style="color: #ff6b9d;">~$</span> whoami<br>
-  <div style="margin-left: 20px; color: #e0e0e0;">Pavan Hosatti</div><br>
-  
-  <span style="color: #00ff88;">visitor@github</span>:<span style="color: #ff6b9d;">~$</span> cd portfolio/<br>
-  <span style="color: #00ff88;">visitor@github</span>:<span style="color: #ff6b9d;">~/portfolio$</span> ls -la<br>
-  <div style="margin-left: 20px; color: #e0e0e0;">
-    drwxr-xr-x  🌾  Farm2Market/<br>
-    drwxr-xr-x  🍽️  3D Restaurant/<br>
-    drwxr-xr-x  🎮  CatchVerse/<br>
-    drwxr-xr-x  ✅  Task Manager/<br>
-    -rw-r--r--  🎯  ML + Backend Systems<br>
-  </div><br>
-  
-  <span style="color: #00ff88;">visitor@github</span>:<span style="color: #ff6b9d;">~/portfolio$</span> open --url https://pavan-hosatti.github.io<br>
-  <div style="margin-left: 20px; color: #e0e0e0;">
-    Opening interactive portfolio terminal...<br>
-    <a href="https://pavan-hosatti.github.io" style="color: #00ff88; text-decoration: none;">↳ Click here if redirect fails</a>
-  </div>
-</div>
-
-</div>
-
-<!-- CTA Button -->
-<a href="https://pavan-hosatti.github.io" target="_blank">
-  <div style="background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(255, 107, 157, 0.1)); border: 1px solid #333; border-top: none; border-radius: 0 0 10px 10px; padding: 25px; margin-bottom: 30px; text-align: center; cursor: pointer; transition: all 0.3s ease;">
-    <span style="color: #00ff88; font-size: 20px; font-weight: bold;">🚀 LAUNCH INTERACTIVE PORTFOLIO</span><br>
-    <span style="color: #888; font-size: 14px;">(Experience the full terminal with animations, 3D effects & voice AI projects)</span>
-  </div>
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐-Visit_My_Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://pavan-hosatti.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-hosatti-a51916259/)
+[![Email](https://img.shields.io/badge/Email-pavanhosatti18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanhosatti18@gmail.com)
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Quick Facts
 
-<div align="center">
-
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Hosatti&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=ff6b9d&text_color=e0e0e0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Hosatti&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&text_color=e0e0e0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Pavan-Hosatti&theme=dark&hide_border=true&background=0A0A0A&ring=00FF88&fire=FF6B9D&currStreakLabel=E0E0E0)
-
-</div>
+- 🏆 **Farm2Market** - 1st Place Winner (Voice-controlled agri marketplace)
+- 🎯 Focus: **ML + Backend Systems**
+- 📊 **300+ contributions** in 2025
+- 🎭 Beyond Code: Acting • Writing • Anchoring • Marketing
+- 💼 Roles: MLSA CIT & Innov8 Technical Team
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Stats
 
-### 🌾 **Farm2Market** | 🥇 **First Place Winner**
-_Voice-controlled agricultural marketplace in Kannada_  
-`Voice AI` `MERN Stack` `ML Model` `CI/CD` `OAuth`  
-> Farmers speak, system responds. Custom ML voice recognition for real-world impact.
+![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan-Hosatti&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=ff6b9d)
 
-### 🍽️ **3D Restaurant Experience**
-_Immersive dining website with 3D visualization_  
-`Three.js` `Firebase` `Payment Gateway` `3D Graphics`  
-> Interactive 3D restaurant model with real-time ordering system.
-
-### 🎮 **CatchVerse**
-_Interactive game with smooth animations_  
-`React` `Redux` `Framer Motion` `Animations`  
-> Engaging gameplay with modern React ecosystem.
-
-### ✅ **Task Manager**
-_Pre-React era productivity app_  
-`Vanilla JS` `Confetti Animations` `Clean Architecture`  
-> Dopamine-driven task completion with celebration effects.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan-Hosatti&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff88)
 
 ---
 
-## 🔧 Tech Stack
+## 🔥 Featured Projects
 
+### 🌾 [Farm2Market](https://pavan-hosatti.github.io)
+**Voice-controlled agricultural marketplace in Kannada**  
+`Voice AI` `MERN` `ML Model` `CI/CD`  
+🏆 **First Place Winner** - Real farmers, real impact
 
-const techStack = {
-  languages: ["JavaScript", "Python", "Java", "TypeScript", "C"],
-  frontend: ["React", "Three.js", "Tailwind", "Redux", "Framer Motion"],
-  backend: ["Node.js", "Express", "Flask", "REST APIs"],
-  ml_ai: ["TensorFlow", "PyTorch", "Voice AI", "Custom ML Models"],
-  databases: ["MongoDB", "SQLite", "Firebase", "Mongoose"],
-  devops: ["Git", "Docker", "GCP", "CI/CD", "GitHub Actions"],
-  design: ["Figma", "Canva", "UI/UX Principles"]
-};
-🎭 Beyond Code
+### 🍽️ [3D Restaurant Experience](https://pavan-hosatti.github.io)
+**Immersive restaurant website with 3D visualization**  
+`Three.js` `Firebase` `Payment Gateway` `3D Graphics`
+
+### 🎮 [CatchVerse](https://pavan-hosatti.github.io)
+**Interactive game with smooth animations**  
+`React` `Redux` `Framer Motion` `Animations`
+
+### ✅ Task Manager
+**Pre-React productivity app with confetti animations**  
+`Vanilla JS` `Clean Architecture` `Animations`
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### **Backend & ML**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎯 Currently
+
+- 🔭 Working on **ML + Backend projects**
+- 🌱 Learning **advanced ML deployment**
+- 👯 Looking to collaborate on **AI/ML projects**
+- 💬 Ask me about **Voice AI, MERN stack, 3D web**
+- 📫 How to reach me: **pavanhosatti18@gmail.com**
+- ⚡ Fun fact: **Also into acting, writing & anchoring!**
+
+---
+
+## 📈 Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pavan-Hosatti&theme=dark&hide_border=true&background=0A0A0A&ring=00FF88&fire=FF6B9D)
+
+---
+
 <div align="center">
-🎭 Acting	✍️ Writing	🎤 Anchoring
-📈 Marketing	🗣️ Public Speaking	🎬 Storytelling
+
+### **🚀 [Visit My Full Interactive Portfolio](https://pavan-hosatti.github.io)**
+
+*"Ship fast, iterate faster. Build tech that matters."*
+
+![Visitors](https://komarev.com/ghpvc/?username=Pavan-Hosatti&color=00ff88&style=flat)
+
 </div>
-"The best engineers are also great storytellers. From hosting tech events to crafting product narratives, these skills amplify technical work."
-
-📫 Connect With Me
-<p align="center"> <a href="https://pavan-hosatti.github.io" target="_blank"> <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"> </a> <a href="https://www.linkedin.com/in/pavan-hosatti-a51916259/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:pavanhosatti18@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/Pavan-Hosatti" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </p>
-<div align="center" style="margin-top: 40px; color: #888; font-size: 14px; font-family: monospace;">
-bash
-# Current Status: Building & Shipping
-$ status --current
-► ML + Backend Systems
-► Voice AI Applications  
-► Real-world Impact Projects
-
-https://komarev.com/ghpvc/?username=Pavan-Hosatti&color=00ff88&style=flat&label=PROFILE+VISITORS
-
-"Ship fast, iterate faster. Build tech that matters."
-
-</div> </div> 
